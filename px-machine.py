@@ -23,7 +23,7 @@ proxies = {
 headers = {
     "content-type" : "application/json",
     "x-clientid" : "healthcare_etc-px-api_prod",
-    "x-base64-credentials" : "Basic aGVhbHRoY2FyZV9ldGMtcHgtYXBpX3Byb2Q6VXBUbkV6WFZ0eXlWZ3NBVg==",
+    "x-base64-credentials" : "Basic TOKEN_HERE",
     "cache-control" : "no-cache"
 }
 
